@@ -9,4 +9,4 @@ HTML5, CSS3, JS
 
 <h2>Ekran Gifi <h2>
 
-![](Ekrankaydı.gif)
+![](/Ekrankaydı.gif)
